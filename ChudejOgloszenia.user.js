@@ -6,23 +6,7 @@
 // @homepage https://github.com/Shadoba/Chudejko
 // @updateURL https://raw.githubusercontent.com/Shadoba/Chudejko/master/ChudejOgloszenia.user.js
 // @downloadURL https://raw.githubusercontent.com/Shadoba/Chudejko/master/ChudejOgloszenia.user.js
-// @include http://*/*
-// @include https://*/*
-// @grant unsafeWindow
-// @grant GM_addStyle
-// @grant GM_getValue
-// @grant GM_setValue
-// @grant GM_xmlhttpRequest
-// @grant GM_registerMenuCommand
-// @grant GM_deleteValue
-// @grant GM_listValues
-// @grant GM_getResourceText
-// @grant GM_getResourceURL
-// @grant GM_log
-// @grant GM_openInTab
-// @grant GM_setClipboard
-// @grant GM_info
-// @grant GM_getMetadata
+// @grant none
 // @run-at document-end
 // @include https://gumtree.pl/*
 // ==/UserScript==
